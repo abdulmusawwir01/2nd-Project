@@ -1,3 +1,3 @@
-W3Schools-Catering Template
+w3schools-Catering Template
 <br>
 My First Web Site Design
